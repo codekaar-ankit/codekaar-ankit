@@ -4,7 +4,6 @@
 - 💬 Ask me about PHP, Web Development
 - 📫 How to reach me: this.ankit@outlook.com, http://www.linkedin.com/in/this-ankit,
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekaar-ankit)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekaar-ankit&theme=dark&show_icons=true)
 <!---
 codekaar-ankit/codekaar-ankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
