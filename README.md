@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @codekaar-ankit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- नमस्ते, I’m Ankit 👋 
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning ReactNative, React Js
+- 💬 Ask me about PHP, Web Development
+- 📫 How to reach me: this.ankit@outlook.com, http://www.linkedin.com/in/this-ankit,
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekaar-ankit)](https://github.com/anuraghazra/github-readme-stats)
 <!---
