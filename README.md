@@ -4,8 +4,7 @@
 - 💬 Ask me about PHP, Web Development
 - 📫 How to reach me: this.ankit@outlook.com, http://www.linkedin.com/in/this-ankit
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/codekaar-ankit/github-readme-stats)
-
+!(https://github-readme-stats.vercel.app/api?username=codekaar-ankit&theme=dark&show_icons=true)
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekaar-ankit&theme=dark&show_icons=true)
