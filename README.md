@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP
 - 🌱 I’m currently learning ReactNative, React Js
 - 💬 Ask me about PHP, Web Development
-- 📫 How to reach me: this.ankit@outlook.com, http://www.linkedin.com/in/this-ankit,
+- 📫 How to reach me: this.ankit@outlook.com, http://www.linkedin.com/in/this-ankit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekaar-ankit&theme=dark&show_icons=true)
 <!---
