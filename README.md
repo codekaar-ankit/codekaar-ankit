@@ -1,6 +1,6 @@
 - नमस्ते, I’m Ankit 👋 
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning ReactNative, React Js
+- 🌱 I’m currently learning Magento, ReactNative
 - 💬 Ask me about PHP, Web Development
 - :octocat: Open Source
 - 📫 How to reach me: this.ankit@outlook.com, http://www.linkedin.com/in/this-ankit
