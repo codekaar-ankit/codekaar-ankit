@@ -1,16 +1,12 @@
-- नमस्ते, I’m Ankit 👋 
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Magento, ReactNative
-- 💬 Ask me about PHP, Web Development
-- :octocat: Open Source
-- 📫 How to reach me: this.ankit@outlook.com, http://www.linkedin.com/in/this-ankit
+# Hi there, I'm Ankitkumar Pandey 👋
 
+Senior Software Engineer focused on building robust, scalable full-stack applications within the Microsoft technology stack. 
 
-<!---
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekaar-ankit&theme=dark&show_icons=true)
+### 🛠️ Core Technical Focus
+* **Backend:** .NET, C#, ASP.NET Core
+* **Architecture:** Clean Architecture, SOLID Principles, Dependency Injection
+* **Environment:** Transitioning workflows seamlessly across Windows and Linux environments
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekaar-ankit&theme=dark&show_icons=true)
-codekaar-ankit/codekaar-ankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Let's Connect!
+* **Email:** this.ankit@outlook.com
+* **LinkedIn:** [Ankitkumar Pandey on LinkedIn](https://www.linkedin.com/in/ankitkumar-pandey-)
