@@ -1,12 +1,7 @@
-# Hi there, I'm Ankitkumar Pandey 👋
+# Ankit Pandey 👋
 
-Senior Software Engineer focused on building robust, scalable full-stack applications within the Microsoft technology stack. 
+This is my secondary/legacy archive account. You can find my active repositories, 
+contributions, and professional updates on my primary profile:
 
-### 🛠️ Core Technical Focus
-* **Backend:** .NET, C#, ASP.NET Core
-* **Architecture:** Clean Architecture, SOLID Principles, Dependency Injection
-* **Environment:** Transitioning workflows seamlessly across Windows and Linux environments
-
-### 📫 Let's Connect!
-* **Email:** this.ankit@outlook.com
-* **LinkedIn:** [Ankitkumar Pandey on LinkedIn](https://www.linkedin.com/in/ankitkumar-pandey-)
+👉 **Primary Profile:** [github.com/ankitkumar-pandey](https://github.com/ankitkumar-pandey)
+🔗 **LinkedIn:** [Ankitkumar Pandey on LinkedIn](https://www.linkedin.com/in/ankitkumar-pandey-)
